@@ -8,4 +8,4 @@ Soil health plays a crucial role in influencing human health in several intercon
 6.	Mental and Physical Well-being: Access to green spaces and healthy ecosystems, supported by healthy soils, is vital for mental and physical well-being. Urban areas with healthy soils can provide recreational spaces that enhance quality of life and reduce stress.
 7.	Climate Resilience: Healthy soils contribute to resilience against climate-related extremes, such as droughts and floods. Improved soil health can mitigate the economic and health impacts associated with these events, reducing casualties and financial losses.
 
-In summary, maintaining and improving soil health is essential not only for agricultural productivity but also for safeguarding human health and well-being. It is vital to adopt sustainable soil management practices to ensure that soils continue to provide these critical benefits. 🌍
+In summary, maintaining and improving soil health is essential not only for agricultural productivity but also for safeguarding human health and well-being. It is vital to adopt sustainable soil management practices to ensure that soils continue to provide these critical benefits.

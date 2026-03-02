@@ -6,4 +6,4 @@ Additionally, the EU Mission ‘A Soil Deal for Europe’ aims to provide fundin
 
 In the context of the United Nations Framework Convention on Climate Change (UNFCCC), land and soil are recognized as both sources and sinks of carbon, and the EU and its Member States are committed to promoting sustainable management and enhancement of these carbon reservoirs.
 
-For more detailed insights, you may want to explore the full text of the relevant regulations and communications. 🌱
+For more detailed insights, you may want to explore the full text of the relevant regulations and communications.

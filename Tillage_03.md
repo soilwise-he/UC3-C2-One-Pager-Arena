@@ -19,4 +19,4 @@ Non-inversion tillage can influence the prevalence of certain weeds, pests, and 
 6.	**Invasive Alien Species**:
     -	The practice may inadvertently support the establishment of invasive species that can outcompete native flora, leading to ecological imbalances.
 
-In summary, while non-inversion tillage can improve soil health and biological activity, it may also lead to challenges with specific weeds, pests, and diseases. It's essential to monitor these factors and consider integrated pest management strategies to mitigate potential issues. Consulting with an agricultural expert for tailored advice is recommended. 🌱
+In summary, while non-inversion tillage can improve soil health and biological activity, it may also lead to challenges with specific weeds, pests, and diseases. It's essential to monitor these factors and consider integrated pest management strategies to mitigate potential issues. Consulting with an agricultural expert for tailored advice is recommended.
