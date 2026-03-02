@@ -11,7 +11,8 @@ The process relies on the natural carbon cycle:
 2.  **Carbon Allocation:** The plant uses this carbon to build its structure. Some carbon is used for leaves and stems above ground, but a significant portion is sent down to the roots.
 3.  **Soil Sequestration:** Plants exude sugars and carbon compounds from their roots to feed soil microbes. When roots and plants die, this organic matter decomposes and becomes **soil organic carbon**—a stable, long-term form of carbon stored in the ground. This is often referred to as **humus**.
 Carbon farming practices are all about maximizing each step of this process.
----
+
+
 ### Common Carbon Farming Practices
 Farmers and ranchers use a variety of techniques to increase carbon sequestration:
 
@@ -29,14 +30,14 @@ Farmers and ranchers use a variety of techniques to increase carbon sequestratio
 
 **4. Perennial Crops:**
 *   Shifting from annual crops (like corn and soy, which must be replanted every year) to perennial crops (which live for multiple years). Perennials develop extensive root systems that store carbon for the long term.
----
+
 ### The Benefits: More Than Just Carbon
 While the primary goal is climate change mitigation, carbon farming offers a powerful "win-win" scenario with multiple co-benefits:
 *   **Improved Soil Health:** Carbon-rich soil is more fertile, has better structure, and is more resilient to erosion and drought.
 *   **Increased Water Retention:** Organic matter acts like a sponge, helping soil hold more water, which reduces irrigation needs and makes farms more resilient to droughts and floods.
 *   **Enhanced Biodiversity:** Healthier soils support a greater diversity of microbes, fungi, insects, and wildlife.
 *   **Farm Profitability:** Reduced need for synthetic fertilizers and irrigation can lower costs. Additionally, farmers can earn extra income through **carbon markets**, where they sell verified carbon credits to companies looking to offset their emissions.
----
+
 ### Challenges and Criticisms
 Carbon farming is not a silver bullet and faces several challenges:
 *   **Measurement and Verification:** Accurately measuring how much carbon is being stored in the soil is complex and can be expensive, which is crucial for carbon credit programs.

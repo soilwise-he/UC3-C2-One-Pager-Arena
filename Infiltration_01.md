@@ -33,7 +33,7 @@ The infiltration capacity acts as a critical switch between two major pathways o
     *   **Overwhelmed Drainage Systems:** The massive, rapid runoff requires expensive and extensive stormwater drainage systems, which can still be overwhelmed during heavy storms.
     *   **Combined Sewer Overflows (CSOs):** In older cities, stormwater and sewage share the same pipes. High runoff can cause these systems to overflow, dumping untreated sewage into rivers.
     *   **Urban Heat Island Effect:** The lack of soil moisture reduces evaporative cooling, contributing to higher temperatures in cities.
----
+
 ### What Determines a Soil's Infiltration Capacity?
 To fully understand the effect, it's important to know what controls this capacity:
 1.  **Soil Texture:** Sandy soils have large pores and **high** infiltration. Clay soils have tiny pores that get clogged easily, leading to **low** infiltration.

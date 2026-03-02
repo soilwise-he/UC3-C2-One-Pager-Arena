@@ -17,7 +17,7 @@ The lack of soil disturbance is the primary factor changing weed dynamics. You s
     *   **Shepherd's Purse, Pennycress, and Horseweed (Marestail):** Horseweed is particularly notorious for developing glyphosate resistance and becoming a major issue.
     *   **Wild Carrot and Common Mullein:** Biennials that establish a rosette in the first year.
 **Key Challenge:** Reliance on a single herbicide mode of action (like glyphosate in a "burndown" application) has led to widespread herbicide resistance in many of these species, especially horseweed, ryegrass, and ragweed.
----
+
 ### **2. Pests**
 The crop residue provides habitat and protection for many soil-dwelling and slug pests, while also potentially suppressing others.
 **Most Common Pests:**
@@ -27,7 +27,7 @@ The crop residue provides habitat and protection for many soil-dwelling and slug
 *   **Cutworms:** Several species (especially black cutworm) can be worse in no-till. The moths prefer to lay eggs in weedy areas or crop residue.
 *   **Voles (Field Mice):** The layer of residue provides perfect cover and habitat for voles, which can girdle young trees in orchards and damage a variety of field crops by feeding on stems and roots.
 **Beneficial Note:** It's important to remember that the residue also harbors a huge population of beneficial predators like ground beetles, spiders, and predatory mites, which help control many pest species.
----
+
 ### **3. Diseases**
 This is a complex area. While some diseases are worsened by residue, others can be suppressed. The key factor is the "green bridge" and the survival of pathogens on the previous year's crop residue.
 **Most Common Diseases:**
@@ -38,7 +38,7 @@ This is a complex area. While some diseases are worsened by residue, others can 
     *   **White Mold (Sclerotinia) in Soybeans/Beans:** The sclerotia (survival structures) are produced on the soil surface and can persist for years. Dense residue can create the cool, moist canopy that favors infection.
 *   **Seedling Diseases (Damping-Off):** The cooler, wetter soils in spring under residue can favor pathogens like *Pythium*, *Phytophthora*, and *Rhizoctonia*, which attack seeds and seedlings.
 *   **Virus Diseases:** These can be more problematic if the crop residue harbors the "green bridge" for the insect vectors (like aphids) to feed on before moving to the new crop.
----
+
 ### **Integrated Management Strategies for Non-Inversion Systems**
 Success in non-inversion tillage requires a proactive, integrated approach rather than reactive control.
 1.  **Crop Rotation:** This is the single most important tool. Rotating between broadleaf crops (soybeans) and grasses (corn, wheat) breaks pest and disease cycles. It also allows you to use herbicides with different modes of action.
